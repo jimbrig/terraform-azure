@@ -4,6 +4,8 @@
 
 Note that detailed documentation is provided within the individual example folders themselves.
 
+To view detailed progression over time see the [Changelog](CHANGELOG.md).
+
 ## Examples
 
 - [Terraform Local Docker Container](1-terraform-docker-container/)
