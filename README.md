@@ -11,6 +11,11 @@ To view detailed progression over time see the [Changelog](CHANGELOG.md).
 - [Terraform Local Docker Container](1-terraform-docker-container/)
 - [Terraform Azure App Service with Docker - Simple](./2-terraform-azure-app-service-docker/)
 
+## Roadmap
+
+- Provide an Example Deploying a Virtual Machine Linux Server to Azure
+- Provide an Example Utilizing other Authentication Methods outside the scope of `az-cli` for demonstrating CI/CD and deployment pipelines.
+
 ## Appendix
 
 ### Install Terraform on Linux (WSL)
