@@ -1,6 +1,8 @@
 # Terraform Azure Examples
 
-> Personal experimentation using Terraform to setup infrastructure on Azure
+> Personal experimentation using Terraform to setup infrastructure on Azure.
+
+Note that detailed documentation is provided within the individual example folders themselves.
 
 ## Examples
 
