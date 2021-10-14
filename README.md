@@ -13,7 +13,14 @@ To view detailed progression over time see the [Changelog](CHANGELOG.md).
 
 ## Roadmap
 
-- Provide an Example Deploying a Virtual Machine Linux Server to Azure
+Started:
+
+- Provide an Example Deploying a Virtual Machine Linux Server to Azure ([#7](https://github.com/jimbrig/terraform-azure/pull/7))
+- Provide Example Provisioning Azure Container Registry - `acr` ([#3](https://github.com/jimbrig/terraform-azure/pull/3))
+
+Not Started:
+
+- Provide Example Provisioning a Linux VM Server
 - Provide an Example Utilizing other Authentication Methods outside the scope of `az-cli` for demonstrating CI/CD and deployment pipelines.
 
 ## Appendix
