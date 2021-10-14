@@ -4,7 +4,7 @@
 
 Note that detailed documentation is provided within the individual example folders themselves.
 
-To view detailed progression over time see the [Changelog](CHANGELOG.md).
+To view detailed progression over time see the [Changelog](CHANGELOG.md) as well as the active [Development Branches](https://github.com/jimbrig/terraform-azure/branches).
 
 ## Examples
 
