@@ -20,7 +20,7 @@ Started:
 
 Not Started:
 
-- Provide Example Provisioning a Linux VM Server
+- Provide Example Provisioning an Azure Static WebApp (i.e. React or Next.js)
 - Provide an Example Utilizing other Authentication Methods outside the scope of `az-cli` for demonstrating CI/CD and deployment pipelines.
 
 ## Appendix
