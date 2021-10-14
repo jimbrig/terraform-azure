@@ -15,8 +15,8 @@ To view detailed progression over time see the [Changelog](CHANGELOG.md).
 
 Started:
 
-- Provide an Example Deploying a Virtual Machine Linux Server to Azure ([#7](https://github.com/jimbrig/terraform-azure/pull/7))
-- Provide Example Provisioning Azure Container Registry - `acr` ([#3](https://github.com/jimbrig/terraform-azure/pull/3))
+- Provide an Example Deploying a Virtual Machine Linux Server to Azure ([feature/example-3](https://github.com/jimbrig/terraform-azure/tree/feature/example-3))
+- Provide Example Provisioning Azure Container Registry ([feature/example-4](https://github.com/jimbrig/terraform-azure/tree/feature/example-4))
 
 Not Started:
 
